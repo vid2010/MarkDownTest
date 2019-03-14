@@ -1,16 +1,16 @@
 # MarkDownTest
 This is simple markdown poc for documentation.
 ## Text styling
-Bold  **This is Bold**
-Italic _Italic_.
-Strike-through ~~Strike-through~~
-Base and power : log<sub>b</sub><sup>x</sup>+log<sub>b</sub><sup>y</sup>
-[URL link](https://help.github.com/en/articles/using-keyboard-shortcuts)
-Text quote 
+1. Bold  **This is Bold**
+2. Italic _Italic_.
+3. Strike-through ~~Strike-through~~
+4. Base and power : log<sub>b</sub><sup>x</sup>+log<sub>b</sub><sup>y</sup>
+5. [URL link](https://help.github.com/en/articles/using-keyboard-shortcuts)
+6. Text quote 
 > This is text quote.
 
-Backtic for code and command `git status`
-Triple block for distinct block 
+7. Backtic for code and command `git status`
+8. Triple block for distinct block 
 ```
 def add(a, b) do
    (a+b)
